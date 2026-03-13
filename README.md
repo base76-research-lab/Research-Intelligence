@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Base76 Research Intelligence" width="600">
+</p>
+
 # Research-as-a-Service — Base76 Research Intelligence
 
 > *Deep epistemic research — with confidence scores.*
